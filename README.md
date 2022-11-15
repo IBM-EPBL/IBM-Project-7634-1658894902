@@ -1,7 +1,7 @@
 # IBM-Project-7634-1658894902
 University Admit Eligibility Predictor
 
-Team Leader- Pemasani Yasmitha
+Team Leader- Pemmasani Yasmitha
 
 Team Member 1- Kamalitha G.M
 
@@ -17,6 +17,7 @@ Given certain metrics of a student, our task is to predict the probability of th
 # Dataset
 
 The dataset contains 500 observations with the following variables:
+
 GRE Score - Out of 340
 
 TOEFL Score - Out of 120
@@ -40,14 +41,21 @@ Take 80% of the data for training, the other 20% will serve as a validation set.
 The final model explained about 84.9% of the variability in Chance of Admit.
 
 Test Case:
+
 For the following student:
 
 GRE Score - 330
+
 TOEFL Score - 110
+
 University Rating - 4
+
 SOP - 4.5
+
 LOR - 4.5
+
 CGPA - 9.5
+
 Research - 0 (No experience)
 
 The chance of getting accepted into the program is 88.2%
